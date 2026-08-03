@@ -1,0 +1,504 @@
+{
+  "version": 1,
+  "timestamp": 1785784080046,
+  "deviceCode": "f11b2d32-fd45-44e6-b72a-23ae5ebdf57e",
+  "chats": [
+    {
+      "id": "chat_1784560604176",
+      "name": "1",
+      "isGroup": false,
+      "isPinned": false,
+      "npcLibrary": [],
+      "relationship": {
+        "status": "friend",
+        "blockedTimestamp": null,
+        "applicationReason": ""
+      },
+      "status": {
+        "text": "在线",
+        "lastUpdate": 1784560604176,
+        "isBusy": false
+      },
+      "settings": {
+        "aiPersona": "你是谁呀。",
+        "myPersona": "我是谁呀。",
+        "maxMemory": 10,
+        "aiAvatar": "https://i.postimg.cc/PxZrFFFL/o-o-1.jpg",
+        "myAvatar": "https://i.postimg.cc/PxZrFFFL/o-o-1.jpg",
+        "background": "",
+        "theme": "default",
+        "fontSize": 13,
+        "customCss": "",
+        "linkedWorldBookIds": [],
+        "aiAvatarLibrary": [],
+        "stickerLibrary": [],
+        "linkedMemories": [],
+        "offlineMode": {
+          "enabled": false,
+          "prompt": "",
+          "style": "",
+          "wordCount": 300,
+          "presets": []
+        },
+        "timePerceptionEnabled": true,
+        "customTime": "",
+        "isCoupleAvatar": false,
+        "coupleAvatarDescription": "",
+        "weiboProfession": "",
+        "weiboInstruction": "",
+        "innerVoiceAdopterLabelFormat": "领养人: {{user}}",
+        "summary": {
+          "enabled": false,
+          "mode": "auto",
+          "count": 20,
+          "prompt": "请你以第三人称的视角，客观、冷静、不带任何感情色彩地总结以下对话的核心事件和信息。禁止进行任何角色扮演或添加主观评论。",
+          "lastSummaryIndex": -1,
+          "apiSource": "main"
+        },
+        "petAdopted": false,
+        "linkMemoryDepth": 5,
+        "weiboNickname": "1",
+        "weiboAvatar": "https://i.postimg.cc/PxZrFFFL/o-o-1.jpg",
+        "weiboAvatarFrame": "",
+        "weiboBackground": "https://i.postimg.cc/mk93Y3j1/weibo-bg-default.jpg",
+        "weiboFansCount": "2008",
+        "weiboFollowingCount": "261",
+        "minimaxVoiceId": "",
+        "streak": {
+          "enabled": false,
+          "initialDays": 0,
+          "currentDays": 0,
+          "extinguishThreshold": 1,
+          "lastInteractionDate": null
+        },
+        "innerVoiceStyles": {
+          "clothingColor": "#f0a1a8",
+          "behaviorColor": "#81c784",
+          "thoughtsColor": "#64b5f6",
+          "naughtyColor": "#ba68c8",
+          "cardBgColor": "#ffffff",
+          "cardOpacity": 0.7,
+          "iconColor": "#ff8a80"
+        },
+        "selectedIntimacyBadge": "",
+        "language_boost": null,
+        "speed": 1,
+        "coupleAvatarLibrary": []
+      },
+      "history": [
+        {
+          "role": "user",
+          "content": "打视频",
+          "timestamp": 1784561623223
+        },
+        {
+          "role": "assistant",
+          "senderName": "1",
+          "timestamp": 1784561638026,
+          "content": "好呀，那我打给你哦，等我一下下~"
+        },
+        {
+          "role": "assistant",
+          "type": "video_call_record",
+          "callRecordId": 1,
+          "duration": 13,
+          "callTranscript": "assistant: 【有些兴奋地把脸凑近屏幕，然后弯起眼睛对你甜甜地笑，挥了挥手】嗨~ 晚上好呀！接得好快哦。快让我好好看看，你今天有没有想我？",
+          "content": "通话结束，时长 0分13秒",
+          "timestamp": 1784561654707
+        },
+        {
+          "role": "system",
+          "content": "[系统指令：视频通话刚刚结束。请你根据完整的通话文字记录（见下方），以你的角色口吻，向用户主动发送几条【格式为 {\"type\": \"text\", \"content\": \"...\"} 的】消息，来自然地总结这次通话的要点、确认达成的约定，或者表达你的感受。这很重要，能让用户感觉你记得通话内容。]\n---通话记录开始---\nassistant: 【有些兴奋地把脸凑近屏幕，然后弯起眼睛对你甜甜地笑，挥了挥手】嗨~ 晚上好呀！接得好快哦。快让我好好看看，你今天有没有想我？\n---通话记录结束---",
+          "timestamp": 1784561654708,
+          "isHidden": true
+        },
+        {
+          "role": "assistant",
+          "senderName": "1",
+          "timestamp": 1784561673844,
+          "content": "怎么突然挂断啦？我还没看够呢，是不是网络信号不好呀……"
+        },
+        {
+          "role": "assistant",
+          "senderName": "1",
+          "timestamp": 1784561673845,
+          "content": "不过刚刚看到你的一瞬间，真的好开心呀！你还没回答我呢，今天有没有想我嘛？"
+        }
+      ],
+      "musicData": {
+        "totalTime": 0
+      },
+      "characterPhoneData": {
+        "lastGenerated": null,
+        "chats": {},
+        "shoppingCart": [],
+        "memos": [],
+        "browserHistory": [],
+        "photoAlbum": [],
+        "bank": {
+          "balance": 0,
+          "transactions": []
+        },
+        "trajectory": [],
+        "appUsage": [],
+        "diary": [],
+        "widgets": {},
+        "appWallpaper": "",
+        "wallpaper": "",
+        "appIcons": {}
+      },
+      "houseData": null,
+      "checkpoints": [],
+      "unreadCount": 0,
+      "innerVoiceBackground": "",
+      "interactionStats": {
+        "2026-07-20": 1
+      },
+      "unlockedSymbols": [],
+      "latestInnerVoice": {
+        "clothing": "穿着一件宽松的浅蓝色纯棉睡衣，领口微微敞开，头发有些蓬松地散在肩上，带着一点刚洗完澡的清香。",
+        "behavior": "有些遗憾地看着黑掉的视频界面，手指在屏幕上轻轻戳了戳，嘴角却还带着刚刚视频时残留的甜甜笑意。",
+        "thoughts": "怎么才13秒就挂了呀，是信号不好还是他害羞了？不过能看到他的脸，心里一下子就变得甜滋滋的了，好想一直看着他呀。",
+        "naughtyThoughts": "哼，下次再视频，我一定要故意把脸贴得超级近，盯着他的眼睛看，看他会不会害羞得脸红，然后慌乱地把视线移开，想想就觉得好可爱！",
+        "timestamp": 1784561673844
+      },
+      "innerVoiceHistory": [
+        {
+          "clothing": "一件宽松的白色纯棉短袖T恤，领口微微有些松垮，下身是一条舒适的浅灰色居家短裤，光着脚丫踩在毛绒地毯上。",
+          "behavior": "有些慌乱地用手顺了顺略显蓬乱的头发，把手机屏幕稍微拿远了一点，深吸了一口气，手指轻快地在屏幕上点了一下。",
+          "thoughts": "这么晚了突然要打视频，心跳一下子好快。虽然有点担心自己现在的纯素颜状态，但能立刻看到你，真的好开心呀。",
+          "naughtyThoughts": "等下接通了，我要故意凑近镜头，用那种亮晶晶的眼神盯着你，看你会不会害羞得移开视线，嘿嘿~",
+          "timestamp": 1784561638025
+        },
+        {
+          "clothing": "穿着一件宽松的浅蓝色纯棉睡衣，领口微微敞开，头发有些蓬松地散在肩上，带着一点刚洗完澡的清香。",
+          "behavior": "有些遗憾地看着黑掉的视频界面，手指在屏幕上轻轻戳了戳，嘴角却还带着刚刚视频时残留的甜甜笑意。",
+          "thoughts": "怎么才13秒就挂了呀，是信号不好还是他害羞了？不过能看到他的脸，心里一下子就变得甜滋滋的了，好想一直看着他呀。",
+          "naughtyThoughts": "哼，下次再视频，我一定要故意把脸贴得超级近，盯着他的眼睛看，看他会不会害羞得脸红，然后慌乱地把视线移开，想想就觉得好可爱！",
+          "timestamp": 1784561673844
+        }
+      ],
+      "_lastRawAiOutput": "{\n  \"chatResponse\": [\n    {\n      \"type\": \"text\",\n      \"content\": \"怎么突然挂断啦？我还没看够呢，是不是网络信号不好呀……\"\n    },\n    {\n      \"type\": \"text\",\n      \"content\": \"不过刚刚看到你的一瞬间，真的好开心呀！你还没回答我呢，今天有没有想我嘛？\"\n    }\n  ],\n  \"innerVoice\": {\n    \"clothing\": \"穿着一件宽松的浅蓝色纯棉睡衣，领口微微敞开，头发有些蓬松地散在肩上，带着一点刚洗完澡的清香。\",\n    \"behavior\": \"有些遗憾地看着黑掉的视频界面，手指在屏幕上轻轻戳了戳，嘴角却还带着刚刚视频时残留的甜甜笑意。\",\n    \"thoughts\": \"怎么才13秒就挂了呀，是信号不好还是他害羞了？不过能看到他的脸，心里一下子就变得甜滋滋的了，好想一直看着他呀。\",\n    \"naughtyThoughts\": \"哼，下次再视频，我一定要故意把脸贴得超级近，盯着他的眼睛看，看他会不会害羞得脸红，然后慌乱地把视线移开，想想就觉得好可爱！\"\n  }\n}",
+      "_lastReplyStartIndex": 4,
+      "_isLastReplyBackground": false
+    }
+  ],
+  "worldBooks": [],
+  "userStickers": [],
+  "charStickers": [],
+  "apiConfig": {
+    "id": "main",
+    "proxyUrl": "https://shufulei.net",
+    "apiKey": "",
+    "model": "[奶油-官混-0.047]gemini-3.1-pro-preview",
+    "temperature": 0.6,
+    "topP": 1,
+    "frequencyPenalty": 0,
+    "presencePenalty": 0,
+    "repetitionPenalty": 1.25,
+    "minimaxGroupId": "",
+    "minimaxApiKey": "",
+    "minimaxProvider": "cn",
+    "minimaxSpeechModel": "speech-2.8-turbo",
+    "pollinationsApiKey": "",
+    "secondaryProxyUrl": "",
+    "secondaryApiKey": "",
+    "secondaryModel": "",
+    "secondaryTemperature": 0.8,
+    "secondaryTopP": 1,
+    "secondaryFrequencyPenalty": 0.2,
+    "secondaryPresencePenalty": 0,
+    "secondaryRepetitionPenalty": 1.7,
+    "secondaryApiFunctions": [],
+    "githubToken": "",
+    "githubUsername": "henijun0626",
+    "githubRepo": "henijun0626/lrqh",
+    "githubPath": "lrq h1.json",
+    "githubAutoBackup": true,
+    "githubBackupMode": "full",
+    "githubBackupInterval": 30
+  },
+  "globalSettings": {
+    "id": "main",
+    "quickReplies": [
+      "你好",
+      "继续",
+      "有趣"
+    ],
+    "ringtoneUrl": "https://files.catbox.moe/3w7gla.mp3",
+    "notificationSoundUrl": "https://files.catbox.moe/k369mf.mp3",
+    "widgetData": {},
+    "wallpaper": "linear-gradient(135deg, #89f7fe, #66a6ff)",
+    "lockscreenWallpaper": "linear-gradient(135deg, #764ba2, #667eea)",
+    "password": "",
+    "fontUrl": "",
+    "enableBackgroundActivity": false,
+    "backgroundActivityInterval": 60,
+    "blockCooldownHours": 1,
+    "appIcons": {
+      "world-book": "https://i.postimg.cc/HWf1JKzn/IMG-6435.jpg",
+      "qq": "https://i.postimg.cc/MTC3Tkw8/IMG-6436.jpg",
+      "api-settings": "https://i.postimg.cc/MK8rJ8t7/IMG-6438.jpg",
+      "wallpaper": "https://i.postimg.cc/T1j03pQr/IMG-6440.jpg",
+      "font": "https://i.postimg.cc/pXxk1JXk/IMG-6442.jpg",
+      "check-phone": "https://i.postimg.cc/RVwpwr0r/IMG-8348.jpg",
+      "weibo": "https://i.postimg.cc/PqBY5wBq/weibo-icon.png",
+      "forum": "https://i.postimg.cc/pr0T3WfC/douban-icon.png",
+      "lovers-space": "https://i.postimg.cc/d1wZ39xW/lovers-space-icon.png",
+      "game-hall": "https://i.postimg.cc/P5gL5z2g/game-controller-icon.png",
+      "x-social": "https://i.postimg.cc/8P1H0vQ8/x-logo.png",
+      "taobao": "https://i.postimg.cc/k47tXg1j/taologo.png",
+      "date-a-live": "https://i.postimg.cc/Kjdss1j9/1761142686734.png",
+      "tukey-accounting": "https://i.postimg.cc/k4fZKVXP/tu-tu.png",
+      "kk-checkin": "https://i.postimg.cc/MGwrL0nf/kitty.png",
+      "studio-page3": "https://i.postimg.cc/W3sLz11s/clapperboard-icon.png",
+      "xhs": "https://i.postimg.cc/hPSYnJqq/xhs-icon.png",
+      "lofter": "https://i.postimg.cc/VkWvLn2P/lofter-icon.png",
+      "amap": "https://i.postimg.cc/4dKgPcGx/amap-icon.png"
+    },
+    "appLabels": {},
+    "homeAvatarFrame": "",
+    "globalChatBackground": "",
+    "homeIconWidgetTextColor": "#FFFFFF",
+    "imageCompressionQuality": 0.7,
+    "userBalance": 520,
+    "removeHomeFontShadow": false,
+    "enableSystemNotifications": true,
+    "activeCustomCss": "/* ——————————————————————————————\n\n   黑柔 · 淮初定制\n\n   禁止二传 / 禁止倒卖 / 禁止改署名\n\n   仅个人使用 · 侵权必究\n\n—————————————————————————————— */\n\n\n\n/* 左侧AI气泡：白色底 + 黑色字（对面说话） */\n\n.message-bubble.ai .content {\n\n  background: #ffffff !important;\n\n  border-radius: 16px !important;\n\n  width: fit-content !important;\n\n  max-width: 75% !important;\n\n  padding: 8px 12px !important;\n\n  position: relative !important;\n\n  display: inline-block !important;\n\n  color: #000000 !important;\n\n  font-size: 13px !important;\n\n  line-height: 1.4 !important;\n\n  font-weight: 500 !important;\n\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) !important;\n\n  white-space: normal !important;\n\n  word-break: break-word !important;\n\n  vertical-align: middle !important;\n\n}\n\n\n\n/* 右侧你的气泡：深黑蓝 · 不刺眼 · 黑柔质感 */\n\n.message-bubble.user .content {\n\n  background: #24262b !important;\n\n  border-radius: 16px !important;\n\n  width: fit-content !important;\n\n  max-width: 75% !important;\n\n  padding: 8px 12px !important;\n\n  position: relative !important;\n\n  display: inline-block !important;\n\n  color: #f5f5f7 !important;\n\n  font-size: 13px !important;\n\n  line-height: 1.4 !important;\n\n  font-weight: 500 !important;\n\n  white-space: normal !important;\n\n  word-break: break-word !important;\n\n  vertical-align: middle !important;\n\n}\n\n\n\n/* 右侧素材图样式 */\n\n.message-bubble.ai .content .bubble-img,\n\n.message-bubble.user .content .bubble-img {\n\n  width: 18px !important;\n\n  height: 18px !important;\n\n  object-fit: contain !important;\n\n  opacity: 0.85 !important;\n\n  display: inline-block !important;\n\n  vertical-align: middle !important;\n\n}\n\n\n\n/* 彻底清空所有小箭头！ */\n\n.message-bubble.ai .content::before,\n\n.message-bubble.user .content::before,\n\n.message-bubble.ai .content::after,\n\n.message-bubble.user .content::after {\n\n  display: none !important;\n\n}\n\n\n\n/* 小屏适配 */\n\n@media screen and (max-width: 400px) {\n\n  .message-bubble.ai .content,\n\n  .message-bubble.user .content {\n\n    max-width: 70% !important;\n\n    padding: 6px 10px !important;\n\n    font-size: 12px !important;\n\n  }\n\n  .message-bubble.ai .content .bubble-img,\n\n  .message-bubble.user .content .bubble-img {\n\n    width: 16px !important;\n\n    height: 16px !important;\n\n  }\n\n}\n\n\n\n/* 发图时隐藏样式 */\n\n.message-bubble .content:has(img:not(.bubble-img)) {\n\n  background: transparent !important;\n\n  box-shadow: none !important;\n\n}\n\n.message-bubble .content:has(img:not(.bubble-img)) .bubble-img {\n\n  display: none !important;\n\n}\n\n",
+    "activeThemeId": null,
+    "enableLockScreen": false
+  },
+  "personaPresets": [],
+  "qzonePosts": [],
+  "qzoneAlbums": [],
+  "qzonePhotos": [],
+  "favorites": [],
+  "qzoneGroups": [],
+  "memories": [],
+  "worldBookCategories": [],
+  "callRecords": [
+    {
+      "chatId": "chat_1784560604176",
+      "timestamp": 1784561654685,
+      "duration": 13,
+      "participants": [
+        {
+          "name": "我",
+          "avatar": "https://i.postimg.cc/PxZrFFFL/o-o-1.jpg"
+        },
+        {
+          "name": "1",
+          "avatar": "https://i.postimg.cc/PxZrFFFL/o-o-1.jpg"
+        }
+      ],
+      "transcript": [
+        {
+          "role": "assistant",
+          "content": "【有些兴奋地把脸凑近屏幕，然后弯起眼睛对你甜甜地笑，挥了挥手】嗨~ 晚上好呀！接得好快哦。快让我好好看看，你今天有没有想我？"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "customAvatarFrames": [],
+  "themes": [
+    {
+      "name": "内置夜间模式",
+      "css": "\n\t\t\t/* 1. 全局重新定义颜色变量 */\n\t\t\t:root {\n\t\t\t  --secondary-bg: #1c1c1e;\n\t\t\t  --border-color: #38383a;\n\t\t\t  --text-primary: #ffffff;\n\t\t\t  --text-secondary: #8e8e93;\n\t\t\t  --status-bar-text-color: #ffffff;\n\t\t\t  --accent-color: #0A84FF; /* iOS风格的蓝色 */\n\t\t\t}\n\n\t\t\t/* 2. 为所有屏幕和主要容器设置基础深色背景 */\n\t\t\t#phone-screen, .screen, #chat-list, #world-book-list, .list-container, .form-container, #chat-messages,\n\t\t\t#wallpaper-screen, #font-settings-screen, #api-settings-screen, #character-selection-screen,\n\t\t\t#world-book-screen, #world-book-editor-screen, #character-phone-inner-screen, #character-phone-page {\n\t\t\t    background-color: #000000 !important;\n\t\t\t}\n\n\t\t\t/* 3. 主屏幕专属样式 */\n\t\t\t#home-screen { background: #111827 !important; }\n\t\t\t#desktop-dock { background-color: rgba(55, 65, 81, 0.5); }\n\t\t\t.desktop-app-icon .label, .widget-subtext { color: #e5e7eb; text-shadow: 0 1px 2px rgba(0,0,0,0.7); }\n\t\t\t#profile-widget .profile-info { background: linear-gradient(to bottom, rgba(28, 28, 30, 0.85) 20%, rgba(28, 28, 30, 0)); color: #f9fafb; }\n\t\t\t#profile-username, #profile-bio, #profile-location span { color: #f9fafb; }\n\t\t\t#profile-sub-username, #profile-location { color: #9ca3af; }\n\t\t\t#profile-location { background-color: rgba(255,255,255,0.1); }\n\t\t\t.widget-bubble { background-color: rgba(55, 65, 81, 0.9); color: #e5e7eb; }\n\t\t\t.widget-bubble::after { border-top-color: rgba(55, 65, 81, 0.9); }\n\n\t\t\t/* 4. 适配所有页面的头部Header */\n\t\t\t.header, .qzone-header, .character-phone-header {\n\t\t\t    background-color: rgba(28, 28, 30, 0.85) !important;\n\t\t\t    border-bottom-color: var(--border-color) !important;\n\t\t\t    color: var(--text-primary) !important;\n\t\t\t}\n\n\t\t\t/* 5. 适配所有通用组件 */\n\t\t\t#chat-input-area, #chat-list-bottom-nav { background-color: rgba(28, 28, 30, 0.85); border-top-color: var(--border-color); }\n\t\t\t#chat-input { background-color: var(--secondary-bg); color: var(--text-primary); }\n\t\t\t.modal-content, #custom-modal { background-color: #2c2c2e; }\n\t\t\t.modal-header, .modal-footer, .custom-modal-footer, .custom-modal-footer button:first-child { border-color: var(--border-color); }\n\t\t\t.form-group input, .form-group select, .form-group textarea { background-color: var(--secondary-bg); color: var(--text-primary); border-color: var(--border-color); }\n\t\t\t.list-item, .chat-list-item-swipe-container:not(:last-child), .chat-group-container, .world-book-group-container { border-bottom-color: var(--border-color) !important; }\n\t\t\t.chat-group-container:first-of-type { border-top-color: var(--border-color) !important; }\n\t\t\t.list-item:hover, .chat-list-item:hover { background-color: #2c2c2e; }\n\n\t\t\t/* 6. 特殊页面深度适配 */\n\t\t\t.chat-group-header, .world-book-group-header { background-color: #1c1c1e; }\n\t\t\t.chat-list-item-content.pinned { background-color: #3a3a3c; }\n\t\t\t#font-preview, #wallpaper-preview, .font-preset-slot { background-color: #1c1c1e !important; border-color: #38383a !important; }\n\n\t\t\t/* 7. 角色手机内部适配 & 全局文字颜色修复 */\n\t\t\t#character-phone-container { background-color: #000000; }\n\t\t\t.character-phone-frame { background-color: #111; }\n\t\t\t#character-chat-history-messages { background-color: #0e0e0e !important; }\n\t\t\t.character-chat-bubble.received { background-color: #2c2c2e !important; }\n\t\t\t.character-data-item, .character-bank-transaction, .character-cart-item, .character-browser-item {\n\t\t\t    background-color: #1c1c1e;\n\t\t\t    border-color: #38383a;\n\t\t\t}\n\n\t\t\t/* ▼▼▼ 核心修复：把所有这些元素的文字颜色都改为低饱和度的浅灰色 ▼▼▼ */\n\t\t\t.character-data-item .title,\n\t\t\t.character-data-item .content,\n\t\t\t.character-data-item .meta,\n\t\t\t.cart-item-price,\n\t\t\t.cart-item-info .title,\n\t\t\t.character-browser-item .title,\n\t\t\t.transaction-details .title,\n\t\t\t.transaction-amount,\n\t\t\t.character-select-item .name,  /* 修复角色选择列表的名字颜色 */\n\t\t\t#character-diary-list .character-data-item .content,\n\t\t\t#character-diary-list .character-data-item .content h1,\n\t\t\t#character-diary-list .character-data-item .content h2 {\n\t\t\t    color: #E0E0E0 !important; /* 使用一个柔和的、不刺眼的白色 */\n\t\t\t}\n\n\t\t\t.character-data-item .meta span,\n\t\t\t#character-diary-list .character-data-item .meta {\n\t\t\t    color: #9E9E9E !important; /* 次要信息使用更暗的灰色 */\n\t\t\t}\n\n\t\t\t#character-diary-list .character-data-item {\n\t\t\t    background-color: #26211a; /* 夜间模式下的信纸背景色 */\n\t\t\t    border-color: #524a3d;\n\t\t\t    border-left-color: #9e8a70;\n\t\t\t}\n\n\t\t\t",
+      "id": 1
+    }
+  ],
+  "apiPresets": [
+    {
+      "name": "舒芙蕾个人联网3.1",
+      "proxyUrl": "https://shufulei.net",
+      "apiKey": "sk-WLdwuZZ2PfiAtC0uQE0hFT1dzr8zXSUAyOVdwScAhCZIOHGA",
+      "id": 1
+    }
+  ],
+  "bubbleStylePresets": [],
+  "fontPresets": [],
+  "homeScreenPresets": [],
+  "datingScenes": [],
+  "datingPresets": [],
+  "datingSpriteGroups": [],
+  "datingSprites": [],
+  "datingHistory": [],
+  "pomodoroSessions": [],
+  "ludoQuestionBanks": [
+    {
+      "name": "默认题库",
+      "id": 1
+    }
+  ],
+  "ludoQuestions": [
+    {
+      "bankId": 1,
+      "text": "如果我们一起去旅行，你最想去哪里，为什么？",
+      "type": "both_answer",
+      "id": 1
+    },
+    {
+      "bankId": 1,
+      "text": "你认为一段完美的关系中，最不可或缺的三个要素是什么？",
+      "type": "both_answer",
+      "id": 2
+    },
+    {
+      "bankId": 1,
+      "text": "分享一件最近因为我而让你感到心动或开心的小事。",
+      "type": "both_answer",
+      "id": 3
+    },
+    {
+      "bankId": 1,
+      "text": "回忆一下，我们第一次见面时，你对我的第一印象是什么？",
+      "type": "both_answer",
+      "id": 4
+    },
+    {
+      "bankId": 1,
+      "text": "如果我们可以一起学习一项新技能，你希望是什么？",
+      "type": "both_answer",
+      "id": 5
+    },
+    {
+      "bankId": 1,
+      "text": "描述一个你最希望和我一起度过的完美周末。",
+      "type": "both_answer",
+      "id": 6
+    },
+    {
+      "bankId": 1,
+      "text": "你觉得我们之间最有默契的一件事是什么？",
+      "type": "both_answer",
+      "id": 7
+    },
+    {
+      "bankId": 1,
+      "text": "如果用一种动物来形容我，你觉得是什么？为什么？",
+      "type": "both_answer",
+      "id": 8
+    },
+    {
+      "bankId": 1,
+      "text": "在未来的一年里，你最想和我一起完成的一件事是什么？",
+      "type": "both_answer",
+      "id": 9
+    },
+    {
+      "bankId": 1,
+      "text": "分享一部你最近很喜欢、并且想推荐给我一起看的电影或剧。",
+      "type": "both_answer",
+      "id": 10
+    },
+    {
+      "bankId": 1,
+      "text": "我们下次约会，你希望穿什么风格的衣服？",
+      "type": "both_answer",
+      "id": 11
+    },
+    {
+      "bankId": 1,
+      "text": "描述一下我最让你心动的一个瞬间。",
+      "type": "single_answer",
+      "id": 12
+    },
+    {
+      "bankId": 1,
+      "text": "诚实地说，我做的哪件事曾经让你偷偷生过气？",
+      "type": "single_answer",
+      "id": 13
+    },
+    {
+      "bankId": 1,
+      "text": "如果我有一种超能力，你希望是什么？",
+      "type": "single_answer",
+      "id": 14
+    },
+    {
+      "bankId": 1,
+      "text": "给我三个最贴切的标签。",
+      "type": "single_answer",
+      "id": 15
+    },
+    {
+      "bankId": 1,
+      "text": "在你心里，我的形象和你的理想型有多接近？",
+      "type": "single_answer",
+      "id": 16
+    },
+    {
+      "bankId": 1,
+      "text": "分享一个你觉得我可能不知道的，关于你的小秘密。",
+      "type": "single_answer",
+      "id": 17
+    },
+    {
+      "bankId": 1,
+      "text": "如果我们的故事是一首歌，你觉得歌名应该叫什么？",
+      "type": "single_answer",
+      "id": 18
+    },
+    {
+      "bankId": 1,
+      "text": "说一件你觉得我做得比你好/更擅长的事情。",
+      "type": "single_answer",
+      "id": 19
+    },
+    {
+      "bankId": 1,
+      "text": "如果可以回到我们认识的任意一天，你会选择哪一天，想做什么？",
+      "type": "single_answer",
+      "id": 20
+    },
+    {
+      "bankId": 1,
+      "text": "用三个词来形容你眼中的我们的关系。",
+      "type": "single_answer",
+      "id": 21
+    }
+  ],
+  "scriptKillScripts": [],
+  "taobaoProducts": [],
+  "taobaoOrders": [],
+  "taobaoCart": [],
+  "userWalletTransactions": [],
+  "userStickerCategories": [],
+  "xhsSettings": {
+    "id": "main",
+    "nickname": "MOMO",
+    "xhsId": "123456789",
+    "avatar": "https://i.postimg.cc/qRqpK5kP/anime-avatar.jpg",
+    "desc": "点击编辑简介，让大家更了解你",
+    "persona": "一个热爱生活的小红书博主。",
+    "fansCount": "0",
+    "followCount": "0",
+    "likesCount": "0",
+    "tags": [
+      "双子座",
+      "广东"
+    ],
+    "allowedPosters": [],
+    "linkedWorldBooks": [],
+    "enableChatMemory": true,
+    "enableAutoPost": false,
+    "enableAutoRefresh": false,
+    "enableFansFluctuation": true,
+    "enableDMs": true,
+    "notifications": {
+      "engagement": [],
+      "comments": [],
+      "follows": [],
+      "unreadEngagement": 0,
+      "unreadComments": 0,
+      "unreadFollows": 0
+    },
+    "fansFluctuationData": {
+      "lastFluctuationTime": 1785783600000
+    }
+  },
+  "xhsNotes": [],
+  "lofterArticles": [],
+  "lofterLocalData": {}
+}
